@@ -1,0 +1,197 @@
+{
+  "brand": {
+    "name": "Menuo",
+    "tagline": "The Smart Digital Menu for Your Restaurant"
+  },
+  "nav": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "templates": "Templates",
+    "contact": "Contact",
+    "login": "Login",
+    "getStarted": "Get Started Free",
+    "dashboard": "Dashboard"
+  },
+  "hero": {
+    "badge": "🚀 #1 Digital Menu Platform in Egypt & Gulf",
+    "title": "Transform Your Menu",
+    "titleHighlight": "Into a Smart Digital Experience",
+    "description": "Professional QR-code digital menu with integrated ordering & payments, AI features, and detailed analytics — all at local prices starting from free.",
+    "cta": "Get Started Free",
+    "secondaryCta": "Watch Demo",
+    "stats": {
+      "restaurants": "Restaurants Trust Us",
+      "scans": "Monthly QR Scans",
+      "uptime": "Uptime",
+      "support": "Support"
+    }
+  },
+  "features": {
+    "sectionBadge": "Features",
+    "title": "Everything Your Restaurant Needs in One Place",
+    "description": "From digital menus to ordering and payments — a complete platform designed for the Arabic market",
+    "templates": {
+      "title": "Professional Menu Templates",
+      "description": "Choose from dozens of templates designed for different restaurant types, with full customization to match your brand."
+    },
+    "qr": {
+      "title": "Dynamic QR Codes",
+      "description": "Custom QR codes for each table or the full menu, with instant updates without needing to reprint."
+    },
+    "updates": {
+      "title": "Instant Updates",
+      "description": "Update menu items, prices, and offers instantly. Add or remove unavailable items with a single click."
+    },
+    "analytics": {
+      "title": "Reports & Analytics",
+      "description": "Detailed analytics on most-viewed dishes and peak hours to make better decisions and increase sales."
+    },
+    "ordering": {
+      "title": "Complete Ordering System",
+      "description": "Customer scans QR, browses the menu, orders and pays — all from their phone without any app."
+    },
+    "payments": {
+      "title": "Local Payments",
+      "description": "Support Fawry, Paymob, Meeza, Apple Pay, mada, STC Pay — every payment method your customers use."
+    },
+    "ai": {
+      "title": "AI-Powered",
+      "description": "Auto-generated dish descriptions, AI food photos, and smart suggestions that boost average order by 20%."
+    },
+    "whatsapp": {
+      "title": "WhatsApp Integration",
+      "description": "Automatically send order confirmations and status updates to customers via WhatsApp."
+    },
+    "allergens": {
+      "title": "Allergens & Nutrition",
+      "description": "SFDA-compliant system — 14 allergens, calories, caffeine, and nutritional information."
+    },
+    "loyalty": {
+      "title": "Loyalty Program",
+      "description": "Phone-number-based points and rewards system that increases repeat visits by 35%."
+    },
+    "multilingual": {
+      "title": "Arabic & English",
+      "description": "Bilingual menu designed Arabic-first with full RTL support and professional Arabic fonts."
+    },
+    "branches": {
+      "title": "Branch Management",
+      "description": "Unified menu across branches with per-branch pricing and availability, plus Ramadan/seasonal scheduling."
+    }
+  },
+  "howItWorks": {
+    "sectionBadge": "How It Works",
+    "title": "Just 3 Steps to Get Started",
+    "step1": {
+      "title": "Sign Up & Design Your Menu",
+      "description": "Choose a template, add your items and photos, and customize colors and fonts to match your brand."
+    },
+    "step2": {
+      "title": "Print Your QR Codes",
+      "description": "Download custom QR codes for each table or one for the full menu, and print them on your tables."
+    },
+    "step3": {
+      "title": "Customers Order & Pay",
+      "description": "Customers scan the QR from their phone, browse, order and pay — while you track everything from the dashboard."
+    }
+  },
+  "pricing": {
+    "sectionBadge": "Pricing",
+    "title": "Local Prices That Fit Every Restaurant",
+    "description": "No commissions on orders. No hidden fees. Pay in Egyptian Pounds.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "yearlyDiscount": "Save 20%",
+    "popular": "Most Popular",
+    "free": {
+      "name": "Free",
+      "price": "0",
+      "currency": "EGP",
+      "period": "/month",
+      "description": "For trying out and small restaurants",
+      "features": [
+        "1 branch",
+        "20 items",
+        "QR display menu",
+        "Basic analytics",
+        "Menuo watermark"
+      ],
+      "cta": "Start Free"
+    },
+    "starter": {
+      "name": "Starter",
+      "price": "199",
+      "currency": "EGP",
+      "period": "/month",
+      "description": "For restaurants that want ordering",
+      "features": [
+        "1 branch",
+        "Unlimited items",
+        "Full ordering system",
+        "WhatsApp notifications",
+        "Basic analytics",
+        "No watermark"
+      ],
+      "cta": "Get Started"
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "499",
+      "currency": "EGP",
+      "period": "/month",
+      "description": "For restaurants ready to grow",
+      "features": [
+        "Up to 3 branches",
+        "Online payments",
+        "Allergen & nutrition system",
+        "Loyalty program",
+        "AI dish descriptions",
+        "Menu scheduling",
+        "Advanced analytics"
+      ],
+      "cta": "Get Started"
+    },
+    "business": {
+      "name": "Business",
+      "price": "999",
+      "currency": "EGP",
+      "period": "/month",
+      "description": "For chains and large restaurants",
+      "features": [
+        "Up to 10 branches",
+        "AI dish photos",
+        "Foodics POS integration",
+        "Delivery integration",
+        "Custom domain",
+        "Priority support",
+        "All Pro features"
+      ],
+      "cta": "Contact Us"
+    }
+  },
+  "testimonials": {
+    "sectionBadge": "Testimonials",
+    "title": "Real Restaurants, Real Results"
+  },
+  "cta": {
+    "title": "Ready to Transform Your Menu?",
+    "description": "Join thousands of restaurants using Menuo. Start free today — no credit card required.",
+    "button": "Get Started Free Now",
+    "secondary": "Talk to Sales"
+  },
+  "footer": {
+    "description": "The #1 digital menu platform in Egypt & the Gulf. Helping restaurants and cafes go digital at local prices.",
+    "product": "Product",
+    "company": "Company",
+    "support": "Support",
+    "legal": "Legal",
+    "about": "About Menuo",
+    "blog": "Blog",
+    "careers": "Careers",
+    "helpCenter": "Help Center",
+    "documentation": "Documentation",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved"
+  }
+}
